@@ -1,2 +1,2 @@
 # Game
-Building Games using different Python Libraries
+Building Games using Python Libraries
